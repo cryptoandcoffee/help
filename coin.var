@@ -1,4 +1,4 @@
-name="unobtanium"
-symbol="uno"
-daemon="unobtaniumd"
-cli="unobtanium-cli"
+name="vcash"
+symbol="vcash"
+daemon="vcash"
+cli="vcash"
