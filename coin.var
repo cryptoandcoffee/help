@@ -1,4 +1,4 @@
-name="vcash"
-symbol="vcash"
-daemon="vcash"
-cli="vcash"
+name="helpico"
+symbol="help"
+daemon="helpicod"
+cli="helpico-cli"
